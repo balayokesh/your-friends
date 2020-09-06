@@ -29,7 +29,7 @@
 	<body>
 		<h1>Your Friends</h1>
 		<form>
-			<h1><a href="include/anonymous.php">Get mental support anonymously for free</a></h1>
+			<h1><a href="include/anonymous.php">Need a friend to talk Click here</a></h1>
 		</form>
 
 		<p>(OR)</p>
