@@ -1,5 +1,5 @@
 # Hosted at:
 [http://yourfriends.balayokesh.xyz](http://yourfriends.balayokesh.xyz)
 
-# mental-assistance
-Persons who need mental assistance can come and share thier things anonymously in this web application.  There are special volunteers along with you in the room chat who  will guide the persons.
+# We are your friends
+Hey are you feeling lonely.  Come on lots of people like you would like to chat in [this web app](http://yourfriends.balayokesh.xyz).  The advantage is that, no user sign in at all, just go and chat, enjoy :)
